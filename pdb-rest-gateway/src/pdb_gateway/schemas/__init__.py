@@ -1,0 +1,1 @@
+"""JSON schemas for PDB Gateway requests and responses."""

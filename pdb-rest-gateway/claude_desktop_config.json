@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "pdb-gateway": {
+      "command": "python3",
+      "args": ["/app/pdb-rest-gateway/mcp_server.py"],
+      "env": {
+        "PYTHONPATH": "/app/pdb-rest-gateway/src"
+      }
+    }
+  }
+}
